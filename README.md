@@ -44,9 +44,9 @@ La pelota está representada por un círculo negro con un grueso borde blanco. E
 
 ### Sonido 
 
-Se ha decidido incluir 3 sonidos diferentes para facilitar al usuario el reconocimiento de determinadas situaciones y su diferenciación. Son los siguientes: un sonido para cuando se produce un rebote en un borde del campo de juego, uno para cuando el jugador lográ golpear la pelota con la pala y uno para indicar que se ha marcado un gol (este último sirve de refuerzo al marcador).
+Se ha decidido incluir 3 sonidos diferentes para facilitar al usuario el reconocimiento de determinadas situaciones y su diferenciación. Son los siguientes: un sonido para cuando se produce un rebote en un borde del campo de juego, uno para cuando el jugador logra golpear la pelota con la pala y uno para indicar que se ha marcado un gol (este último sirve de refuerzo al marcador).
 
 
 
 
-Las herramientas y referencias utilizadas fueron las propuestas por el guión de prácticas, además del propio guión de prácticas. Algunos de los sonidos fueron descargados ded la página freeSound
+Las herramientas y referencias utilizadas fueron las propuestas por el guión de prácticas, además del propio guión de prácticas. Algunos de los sonidos fueron descargados de la página freeSound.
